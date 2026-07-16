@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/stephanieabisaab/stephanieabisaab/main/sas-logo.png" align="right" width="110" alt="SAS logo" />
 
-# Stephanie here.
+# Hi, Stephanie here.
 ## Glad you found me, feel free to know more!
 
-I currently work as a Business Analyst apprentice at a global logistics company alongside being a data science and BI student; I focus on predictive modeling and credit analytics.
+I currently work as a Business Analyst at a global logistics company alongside being a data science and BI student; I focus on predictive modeling and credit analytics.
 
 * **Academic background:** EDC Paris Business School (Master's degree), ISC Paris Business School (Bachelor's degree)
 * **Projects :**
