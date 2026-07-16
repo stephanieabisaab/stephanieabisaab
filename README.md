@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/stephanieabisaab/stephanieabisaab/main/sas-logo.png" align="right" width="110" alt="SAS logo" />
+
 
 # Hi, Stephanie here.
 ## Glad you found me, feel free to know more!
